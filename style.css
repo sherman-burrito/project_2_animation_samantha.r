@@ -1,0 +1,17 @@
+@import 'https://fonts.googleapis.com/css?family=Ruslan+Display';
+@import 'https://fonts.googleapis.com/css?family=Acme';
+h1 {
+  font-family: Ruslan Display;
+  text-align: center;
+  color: GoldenRod;
+  font-size:45;
+}
+
+body {
+  background-image:url(http://www.solidbackgrounds.com/images/1280x1024/1280x1024-light-blue-solid-color-background.jpg)
+}
+
+p{
+  font-family: Acme;
+  color: navy;
+}
